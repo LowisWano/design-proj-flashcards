@@ -40,14 +40,9 @@
     "answer": "Mindsets of Design Thinking"
   },
   {
-    "id": "9",
-    "question": "The ability to sense and understand users' emotions, perspectives, and experiences.",
-    "answer": "Empathy"
-  },
-  {
     "id": "10",
-    "question": "Empathy involves understanding and sharing feelings, while sympathy is feeling pity for someone without truly understanding their experience.",
-    "answer": "Empathy vs. Sympathy"
+    "question": "It involves feeling pity for someone without truly understanding their experience.",
+    "answer": "Sympathy"
   },
   {
     "id": "11",
@@ -56,23 +51,23 @@
   },
   {
     "id": "12",
-    "question": "Costs or billing issues.",
-    "answer": "Financial (Type of Pain Point)"
+    "question": "A type of type of pain point which pertains to costs or billing issues.",
+    "answer": "Financial"
   },
   {
     "id": "13",
-    "question": "Defects or quality concerns.",
-    "answer": "Product (Type of Pain Point)"
+    "question": "A type of type of pain point which pertains to defects or quality concerns.",
+    "answer": "Product"
   },
   {
     "id": "14",
-    "question": "Inefficiencies in workflows.",
-    "answer": "Process (Type of Pain Point)"
+    "question": "A type of type of pain point which pertains to inefficiencies in workflows.",
+    "answer": "Process"
   },
   {
     "id": "15",
-    "question": "Lack of customer assistance or guidance.",
-    "answer": "Support (Type of Pain Point)"
+    "question": "A type of type of pain point which pertains to lack of customer assistance or guidance.",
+    "answer": "Support"
   },
   {
     "id": "16",
