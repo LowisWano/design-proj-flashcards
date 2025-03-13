@@ -76,8 +76,8 @@
   },
   {
     "id": "17",
-    "question": "A framework that focuses on what users need to accomplish rather than just their demographics.",
-    "answer": "Jobs to Be Done (JTBD)"
+    "question": "The task or problem the persona is trying to solve",
+    "answer": "Jobs to Be Done"
   },
   {
     "id": "18",
