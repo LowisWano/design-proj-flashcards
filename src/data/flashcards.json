@@ -1,0 +1,257 @@
+[
+  {
+    "id": "1",
+    "question": "A human-centered approach to problem-solving that integrates user needs, technological possibilities, and business success.",
+    "answer": "Design Thinking"
+  },
+  {
+    "id": "2",
+    "question": "A process of repeating and refining steps based on feedback and testing.",
+    "answer": "Iterative Process"
+  },
+  {
+    "id": "3",
+    "question": "An approach that focuses on users' needs, behaviors, and experiences to create effective solutions.",
+    "answer": "Human-Centered Design"
+  },
+  {
+    "id": "4",
+    "question": "A creative process that involves generating multiple ideas or solutions to a problem.",
+    "answer": "Divergent Thinking"
+  },
+  {
+    "id": "5",
+    "question": "A problem-solving approach that evaluates and narrows down multiple ideas to find the best solution.",
+    "answer": "Convergent Thinking"
+  },
+  {
+    "id": "6",
+    "question": "The ability to understand and share another person's experiences and emotions.",
+    "answer": "Empathy"
+  },
+  {
+    "id": "7",
+    "question": "A five-phase process: Empathize, Define, Ideate, Prototype, and Test.",
+    "answer": "Design Thinking Process"
+  },
+  {
+    "id": "8",
+    "question": "The key attitudes that drive effective design, including curiosity, experimentation, and collaboration.",
+    "answer": "Mindsets of Design Thinking"
+  },
+  {
+    "id": "9",
+    "question": "The ability to sense and understand users' emotions, perspectives, and experiences.",
+    "answer": "Empathy"
+  },
+  {
+    "id": "10",
+    "question": "Empathy involves understanding and sharing feelings, while sympathy is feeling pity for someone without truly understanding their experience.",
+    "answer": "Empathy vs. Sympathy"
+  },
+  {
+    "id": "11",
+    "question": "Problems or frustrations that users experience when interacting with a product or service.",
+    "answer": "Pain Points"
+  },
+  {
+    "id": "12",
+    "question": "Costs or billing issues.",
+    "answer": "Financial (Type of Pain Point)"
+  },
+  {
+    "id": "13",
+    "question": "Defects or quality concerns.",
+    "answer": "Product (Type of Pain Point)"
+  },
+  {
+    "id": "14",
+    "question": "Inefficiencies in workflows.",
+    "answer": "Process (Type of Pain Point)"
+  },
+  {
+    "id": "15",
+    "question": "Lack of customer assistance or guidance.",
+    "answer": "Support (Type of Pain Point)"
+  },
+  {
+    "id": "16",
+    "question": "A fictional character that represents a typical user, created to understand user needs and behaviors.",
+    "answer": "User Persona"
+  },
+  {
+    "id": "17",
+    "question": "A framework that focuses on what users need to accomplish rather than just their demographics.",
+    "answer": "Jobs to Be Done (JTBD)"
+  },
+  {
+    "id": "18",
+    "question": "A visual representation of a user's interactions with a product or service.",
+    "answer": "User Journey Map"
+  },
+  {
+    "id": "19",
+    "question": "The process of categorizing users based on behaviors, such as how often they use a product or what features they interact with.",
+    "answer": "Behavioral Segmentation"
+  },
+  {
+    "id": "20",
+    "question": "The stage in which designers analyze research findings and create a clear problem statement.",
+    "answer": "Define Phase"
+  },
+  {
+    "id": "21",
+    "question": "A clear and concise description of the issue that needs to be addressed.",
+    "answer": "Problem Statement"
+  },
+  {
+    "id": "22",
+    "question": "A one-sentence description of a user's need and goal. Formula: 'As a [type of user], I want [action], so that [benefit].'",
+    "answer": "User Story"
+  },
+  {
+    "id": "23",
+    "question": "A best-educated guess about how a proposed solution will address the problem.",
+    "answer": "Hypothesis Statement"
+  },
+  {
+    "id": "24",
+    "question": "A statement defining the intended positive impact of the solution.",
+    "answer": "Goal Statement"
+  },
+  {
+    "id": "25",
+    "question": "The reason why a consumer should use a product or service.",
+    "answer": "Value Proposition"
+  },
+  {
+    "id": "26",
+    "question": "An actionable problem statement that combines user, need, and insight.",
+    "answer": "Point of View (POV)"
+  },
+  {
+    "id": "27",
+    "question": "The process of generating multiple ideas to solve a problem.",
+    "answer": "Ideation"
+  },
+  {
+    "id": "28",
+    "question": "A technique used to reframe problems into open-ended questions for brainstorming solutions.",
+    "answer": "\"How Might We\" Questions"
+  },
+  {
+    "id": "29",
+    "question": "A method of generating creative ideas through spontaneous and free-flowing discussions.",
+    "answer": "Brainstorming"
+  },
+  {
+    "id": "30",
+    "question": "A visual technique that helps structure ideas and connect related concepts.",
+    "answer": "Mind Mapping"
+  },
+  {
+    "id": "31",
+    "question": "A method for organizing ideas and grouping them into categories.",
+    "answer": "Affinity Diagram"
+  },
+  {
+    "id": "32",
+    "question": "A scaled-down version of a product used for testing and validation.",
+    "answer": "Prototype"
+  },
+  {
+    "id": "33",
+    "question": "The level of detail and functionality in a prototype.",
+    "answer": "Design Fidelity"
+  },
+  {
+    "id": "34",
+    "question": "A simple representation of an idea, often using paper sketches or wireframes.",
+    "answer": "Low-Fidelity (Lo-Fi) Prototype"
+  },
+  {
+    "id": "35",
+    "question": "A more refined and functional version of the product.",
+    "answer": "High-Fidelity (Hi-Fi) Prototype"
+  },
+  {
+    "id": "36",
+    "question": "A hand-drawn sketch of a product or interface, used for early testing.",
+    "answer": "Paper Prototype"
+  },
+  {
+    "id": "37",
+    "question": "A simple visual layout of a webpage or app that outlines its structure and key elements.",
+    "answer": "Wireframe"
+  },
+  {
+    "id": "38",
+    "question": "A more detailed design representation that includes styling, colors, and typography.",
+    "answer": "Mockup"
+  },
+  {
+    "id": "39",
+    "question": "A prototype where the user believes the system is functional, but a human is actually operating it behind the scenes.",
+    "answer": "Wizard of Oz Prototype"
+  },
+  {
+    "id": "40",
+    "question": "A technique where team members act out user interactions to better understand experiences and pain points.",
+    "answer": "Role-Playing"
+  },
+  {
+    "id": "41",
+    "question": "The final stage in the Design Thinking process where prototypes are evaluated with real users.",
+    "answer": "Testing Phase"
+  },
+  {
+    "id": "42",
+    "question": "Observing real users as they interact with a product to identify usability issues.",
+    "answer": "Usability Testing"
+  },
+  {
+    "id": "43",
+    "question": "Determines if users find value in a product.",
+    "answer": "User Testing (User Testing vs. Usability Testing)"
+  },
+  {
+    "id": "44",
+    "question": "Evaluates how easy and intuitive a product is to use.",
+    "answer": "Usability Testing (User Testing vs. Usability Testing)"
+  },
+  {
+    "id": "45",
+    "question": "A technique where users verbalize their thoughts while performing tasks to provide insights.",
+    "answer": "Think-Aloud Method"
+  },
+  {
+    "id": "46",
+    "question": "Testing conducted online, without requiring users to be physically present.",
+    "answer": "Remote Usability Testing"
+  },
+  {
+    "id": "47",
+    "question": "A facilitator guides the user.",
+    "answer": "Moderated (Remote Usability Testing)"
+  },
+  {
+    "id": "48",
+    "question": "Users complete tasks on their own.",
+    "answer": "Unmoderated (Remote Usability Testing)"
+  },
+  {
+    "id": "49",
+    "question": "Evaluating a product to ensure it is usable by people with disabilities.",
+    "answer": "Accessibility Testing"
+  },
+  {
+    "id": "50",
+    "question": "A mental shortcut that can lead to errors in judgment during testing.",
+    "answer": "Cognitive Bias"
+  },
+  {
+    "id": "51",
+    "question": "A set of criteria used to determine if a design is complete, including aspects like accessibility, functionality, and consistency.",
+    "answer": "14-Point Usability Checklist"
+  }
+]
