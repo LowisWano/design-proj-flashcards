@@ -101,7 +101,7 @@
   },
   {
     "id": "22",
-    "question": "A one-sentence description of a user's need and goal. Formula: 'As a [type of user], I want [action], so that [benefit].'",
+    "question": "A fictional one-sentence story told from the persona's point of view to inspire and inform design decisions.",
     "answer": "User Story"
   },
   {
@@ -161,7 +161,7 @@
   },
   {
     "id": "34",
-    "question": "A simple representation of an idea, often using paper sketches or wireframes.",
+    "question": "A simple diagram of an early-stage design concept.",
     "answer": "Low-Fidelity (Lo-Fi) Prototype"
   },
   {
@@ -176,13 +176,13 @@
   },
   {
     "id": "37",
-    "question": "A simple visual layout of a webpage or app that outlines its structure and key elements.",
+    "question": "A simple visual layout of a webpage or app that outlines its structure and key elements. It is a two-dimensional illustration of a page's interface that specifically focuses on space allocation and prioritization of content, functionalities available, and intended behaviors.",
     "answer": "Wireframe"
   },
   {
     "id": "38",
-    "question": "A more detailed design representation that includes styling, colors, and typography.",
-    "answer": "Mockup"
+    "question": "This is a simulation of the finished product that delivers the visual look of the product design. It includes more detailed design representation that includes styling, colors, and typography.",
+    "answer": "UI Mockup"
   },
   {
     "id": "39",
@@ -201,18 +201,13 @@
   },
   {
     "id": "42",
-    "question": "Observing real users as they interact with a product to identify usability issues.",
+    "question": "It is is a method of testing the functionality of a website, app, or other digital product by observing real users as they attempt to complete tasks on it.",
     "answer": "Usability Testing"
   },
   {
     "id": "43",
-    "question": "Determines if users find value in a product.",
-    "answer": "User Testing (User Testing vs. Usability Testing)"
-  },
-  {
-    "id": "44",
-    "question": "Evaluates how easy and intuitive a product is to use.",
-    "answer": "Usability Testing (User Testing vs. Usability Testing)"
+    "question": "It is a research method that uses real people to evaluate a product or service by observing their interactions and gathering feedback.",
+    "answer": "User Testing"
   },
   {
     "id": "45",
@@ -226,13 +221,13 @@
   },
   {
     "id": "47",
-    "question": "A facilitator guides the user.",
-    "answer": "Moderated (Remote Usability Testing)"
+    "question": "They guide the participant through the test process. They give instructions, answers the participant’s questions, and asks follow-up questions.",
+    "answer": "Facilitator"
   },
   {
     "id": "48",
     "question": "Users complete tasks on their own.",
-    "answer": "Unmoderated (Remote Usability Testing)"
+    "answer": "Unmoderated Remote Usability Testing"
   },
   {
     "id": "49",
@@ -243,10 +238,5 @@
     "id": "50",
     "question": "A mental shortcut that can lead to errors in judgment during testing.",
     "answer": "Cognitive Bias"
-  },
-  {
-    "id": "51",
-    "question": "A set of criteria used to determine if a design is complete, including aspects like accessibility, functionality, and consistency.",
-    "answer": "14-Point Usability Checklist"
   }
 ]
